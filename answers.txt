@@ -9,3 +9,7 @@ Answer: A field that has a data science application is Sports. Data science is u
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps both branches' history and adds an extra commit to join them. Rebasing moves changes on top of the other branch, making the history look like one line instead of two.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning how to use tools like Pandas to analyze datasets, while applying machine learning techniques in our final group project.
